@@ -348,7 +348,7 @@ Special thanks to:
 
 ### 💙 Join us in making remittances fair for everyone
 
-**[Start Contributing](CONTRIBUTING.md)** • **[View Issues](https://github.com/YOUR-USERNAME/streamline/issues)** • **[Join Discord](https://discord.gg/streamline)**
+**[Start Contributing](CONTRIBUTING.md)** • **[View Issues](https://github.com/Mimijuwon/streamline/issues)** • **[Join Discord](https://discord.gg/streamline)**
 
 *Made with 💙 by the StreamLine community*
 
